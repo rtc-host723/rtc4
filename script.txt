@@ -1,11 +1,2 @@
 powershell -Command Invoke-Webrequest -URI 'https://requestbin.whapi.cloud/1n3ia1s1'
-start vine_boom.vbs
-timeout 2
-start vine_boom.vbs
-timeout 2
-start vine_boom.vbs
-
-:loop
-start vine_boom.vbs
-timeout 0.2
-goto loop
+exit
